@@ -1,6 +1,6 @@
 class Permutation:
     # 중복 가능
-    def permutation(self, count, target, length, answer, permutation_all = False):
+    def permutation(self, count, target, length, answer, permutation_all=False):
         if count == length: return answer
 
         count += 1
