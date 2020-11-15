@@ -9,6 +9,9 @@ class Stack:
     def pop(self):
         return self._stack.pop()
 
+    def look(self):
+        return self._stack[-1]
+
 
 class Queue:
     _queue = []
@@ -18,6 +21,9 @@ class Queue:
 
     def pop(self):
         return self._queue.pop(0)
+
+    def look(self):
+        return self._queue[0]
 
 
 def test():
