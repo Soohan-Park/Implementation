@@ -7,6 +7,12 @@
 |1|Stack & Queue (간단할 듯..)|Done|
 |2|Normal Tree|-|
 |3|Binary Tree|-|
-|4|Permutation|Solving...|
-|5|Combination (다시 정리)|-|
+|4|Permutation|Done|
+|5|Combination (다시 정리)|Solving...|
 |6|Linked List|-|
+|7|BFS|-|
+|8|DFS|-|
+
+<br/>
+
+*Last Updated. 2020/11/16*
