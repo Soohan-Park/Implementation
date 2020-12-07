@@ -5,14 +5,14 @@
 |No.|구현할 것|완료 여부|
 |:---:|:---|:---:|
 |1|Stack & Queue (간단할 듯..)|Done|
-|2|Normal Tree|-|
+|2|Normal Tree|Solving...|
 |3|Binary Tree|-|
 |4|Permutation|Done|
 |5|Combination (다시 정리)|Done|
-|6|Linked List|Solving...|
+|6|Linked List|Done|
 |7|BFS|-|
 |8|DFS|-|
 
 <br/>
 
-*Last Updated. 2020/12/02*
+*Last Updated. 2020/12/07*
